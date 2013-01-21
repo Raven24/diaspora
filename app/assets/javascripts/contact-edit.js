@@ -94,5 +94,5 @@ var ContactEdit = {
 };
 
 $(document).ready(function(){
-  ContactEdit.init();
+  //ContactEdit.init();
 });
